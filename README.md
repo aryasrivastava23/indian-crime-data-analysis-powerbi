@@ -33,10 +33,6 @@ The project focuses on transforming raw crime data into an intuitive visual anal
 - Data Storytelling
 - Business Intelligence
 
-## 🖥️ Dashboard Preview
-
-![Indian Crime Analysis Dashboard](dashboard-preview.png)
-
 ## 📂 Project Files
 
 - `Indian_Crime_Analysis.pbix` – Power BI dashboard
